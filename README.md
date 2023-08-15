@@ -47,7 +47,7 @@
 
 # 📖 [Live Demo] <a name="SEA STAR Catch & Grill"></a>
 
-- [Live Demo Link](https://newtonah0.github.io/Capstone-Project2/dist/)
+- [Live Demo Link](http://ridaajroud.me/math-magicians/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
