@@ -1,14 +1,4 @@
-import PropTypes from 'prop-types';
-
-const CalculatorBtns = ({ content }) => (
-  <div className="btn">
-    <span>{content}</span>
-  </div>
-);
-
-CalculatorBtns.propTypes = {
-  content: PropTypes.string.isRequired,
-};
+import CalculatorBtns from './CalculatorBtns';
 
 const Calculator = () => (
   <div className="section-calculator">
