@@ -1,0 +1,29 @@
+.btn {
+  background-color: #e0e0e0;
+  border: 0.05rem solid #bebebe;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  height: 6.5rem;
+  border-radius: 8px;
+  font-size: 2rem;
+}
+
+.btn:hover {
+  background-color: #cdcdcd;
+}
+
+.btn:nth-child(17) {
+  grid-column: span 2;
+}
+
+.btn:nth-child(4n),
+.btn:nth-child(19) {
+  background-color: #f5913e;
+}
+
+.btn:nth-child(4n):hover,
+.btn:nth-child(19):hover {
+  background-color: #eda971;
+}
