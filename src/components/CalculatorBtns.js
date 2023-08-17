@@ -1,13 +1,20 @@
 import PropTypes from 'prop-types';
+import './buttons.css';
 
-const CalculatorBtns = ({ content }) => (
-  <div className="btn">
+const CalculatorBtns = ({ content, handleClick }) => (
+  <button
+    type="button"
+    className="btn"
+    onClick={handleClick}
+    onKeyDown={handleClick}
+  >
     <span>{content}</span>
-  </div>
+  </button>
 );
 
 CalculatorBtns.propTypes = {
   content: PropTypes.string.isRequired,
+  handleClick: PropTypes.func.isRequired,
 };
 
 export default CalculatorBtns;
