@@ -1,7 +1,6 @@
 import { useState, useEffect } from 'react';
 import calculate from '../logic/calculate';
 import CalculatorBtns from './CalculatorBtns';
-import Quotes from './Quotes';
 import './calculator.css';
 
 const Calculator = () => {
@@ -36,9 +35,9 @@ const Calculator = () => {
   }, [obj]);
 
   return (
-    <div className="main-section container">
+    <div className="main main-section">
       <div className="section-quotes">
-        <Quotes />
+        <h1>Let&apos;s do some math!</h1>
       </div>
       <div className="section-calculator">
         <div className="calculator">

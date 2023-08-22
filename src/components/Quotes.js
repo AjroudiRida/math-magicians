@@ -24,11 +24,11 @@ const Quotes = () => {
 
     setTimeout(() => {
       getQuotes();
-    }, 2000);
+    }, 1000);
   }, []);
 
   return (
-    <>
+    <div className="main">
       <h1 className="quotes-title">get inspired by this success quotes</h1>
       {(isLoading === false) ? (
         quotes.map((item) => (
@@ -59,7 +59,7 @@ const Quotes = () => {
           </blockquote>
         </div>
       )}
-    </>
+    </div>
   );
 };
 
