@@ -37,8 +37,8 @@
 
 .main-section {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 3rem;
+  grid-template-columns: 2fr 3fr;
+  gap: 2rem;
 }
 
 @media (max-width: 75em) {
