@@ -8,16 +8,14 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
-    <!-- - [Key Features](#key-features) -->
+    - [Key Features](#key-features) 
     - [🚀 Live Demo](#live-demo)
-    - [ Walkthrough](#walkthrough)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -31,23 +29,31 @@
 
 **[Math magicians]** A React calculator application.
 
-## 🛠 Built With <a name="Html&Css&js"></a>
+## 🛠 Built With <a name="built-with"></a>
 
-  HTML <br>
-  CSS <br>
-  JAVASCRIPT <br>
-  React
+### Tech Stack <a name="tech-stack"></a>
+<ul>
+    <li>Linters</li>
+    <li>React</li>
+    <li>Node.js</li>
+    <li>Jest</li>
+</ul>
 
+### Key Features <a name="key-features"></a>
 
-<!-- ### Key Features <a name="Add list"></a>
+- **Linter implementation**
+- **React implementation**
+- **Test implementation using Jest snapshots and React Testing Library**
 
-- 
+<p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-# 📖 [Live Demo] <a name="SEA STAR Catch & Grill"></a>
+## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://math-magicians-mmuz.onrender.com/)
+
+ ## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[I will try to add some more user interactivity using react]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,7 +113,11 @@ npm test
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 🤝 Contributing <a name="Microverse"></a>
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](http://ridaajroud.me/math-magicians/issues).
 
 Contributions, issues, and feature requests are welcome!
 
@@ -126,6 +136,9 @@ If you like this project give me star
 I would like to thank My Coding Partner.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
