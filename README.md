@@ -8,16 +8,14 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
-    <!-- - [Key Features](#key-features) -->
+    - [Key Features](#key-features) 
     - [🚀 Live Demo](#live-demo)
-    - [ Walkthrough](#walkthrough)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -49,7 +47,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
-# 📖 [Live Demo] <a name="SEA STAR Catch & Grill"></a>
+## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](http://ridaajroud.me/math-magicians/)
 
@@ -115,7 +113,11 @@ npm test
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 🤝 Contributing <a name="Microverse"></a>
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](http://ridaajroud.me/math-magicians/issues).
 
 Contributions, issues, and feature requests are welcome!
 
@@ -134,6 +136,9 @@ If you like this project give me star
 I would like to thank My Coding Partner.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
