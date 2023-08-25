@@ -31,15 +31,22 @@
 
 **[Math magicians]** A React calculator application.
 
-## 🛠 Built With <a name="Html&Css&js"></a>
+## 🛠 Built With <a name="built-with"></a>
 
-  HTML <br>
-  CSS <br>
-  JAVASCRIPT <br>
-  React
+### Tech Stack <a name="tech-stack"></a>
+<ul>
+    <li>Linters</li>
+    <li>React</li>
+    <li>Node.js</li>
+    <li>Jest</li>
+</ul>
 
+### Key Features <a name="key-features"></a>
 
-<!-- ### Key Features <a name="Add list"></a>
+- **Linter implementation**
+- **React implementation**
+- **Test implementation using Jest snapshots and React Testing Library**
+
 
 - 
 
@@ -48,6 +55,10 @@
 # 📖 [Live Demo] <a name="SEA STAR Catch & Grill"></a>
 
 - [Live Demo Link](http://ridaajroud.me/math-magicians/)
+
+ ## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[I will try to add some more user interactivity using react]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
