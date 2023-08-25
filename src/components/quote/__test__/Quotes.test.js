@@ -2,6 +2,7 @@ import { render, screen, waitFor } from '@testing-library/react';
 import '@testing-library/jest-dom';
 import renderer from 'react-test-renderer';
 import Quotes from '../Quotes';
+
 const quotes = [
   { quote: 'quote 1', author: 'author 1' },
   { quote: 'quote 2', author: 'author 2' },

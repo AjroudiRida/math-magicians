@@ -2,6 +2,7 @@ import { render, screen } from '@testing-library/react';
 import '@testing-library/jest-dom';
 import renderer from 'react-test-renderer';
 import Home from '../Home';
+
 describe('testing home page', () => {
   describe('heading testing', () => {
     it('should renders a heading in the document', () => {

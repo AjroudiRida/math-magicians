@@ -1,5 +1,6 @@
 import PropTypes from 'prop-types';
 import './buttons.css';
+
 const CalculatorBtns = ({ content, handleClick }) => (
   <button
     type="button"
