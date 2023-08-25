@@ -47,7 +47,7 @@
 
 # 📖 [Live Demo] <a name="SEA STAR Catch & Grill"></a>
 
-- [Live Demo Link](http://ridaajroud.me/math-magicians/)
+- [Live Demo Link](https://math-magicians-mmuz.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
