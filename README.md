@@ -47,9 +47,6 @@
 - **React implementation**
 - **Test implementation using Jest snapshots and React Testing Library**
 
-
-- 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 # 📖 [Live Demo] <a name="SEA STAR Catch & Grill"></a>
