@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match the Dom snapshot 1`] = `
+<div
+  className="main"
+>
+  <h1
+    className="quotes-title"
+  >
+    get inspired by this success quotes
+  </h1>
+  <div>
+    <blockquote
+      className="blockquote-loading"
+    >
+      <p
+        className="quote-loading skeleton"
+      />
+      <footer>
+        <cite
+          className="author-loading skeleton"
+        />
+      </footer>
+    </blockquote>
+    <blockquote
+      className="blockquote-loading"
+    >
+      <p
+        className="quote-loading skeleton"
+      />
+      <footer>
+        <cite
+          className="author-loading skeleton"
+        />
+      </footer>
+    </blockquote>
+  </div>
+</div>
+`;

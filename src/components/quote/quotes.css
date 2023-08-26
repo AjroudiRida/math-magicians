@@ -1,0 +1,56 @@
+.section-quotes {
+  max-width: 100%;
+}
+
+.quotes-title {
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 3.2;
+  margin: 0 0 2.4rem 0;
+  text-transform: capitalize;
+}
+
+.quote-text {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2;
+  margin: 0 0 2rem 0;
+}
+
+.quote {
+  background-color: #eee;
+  margin: 0;
+  border-radius: 5px;
+  padding: 2rem;
+}
+
+.blockquote-loading {
+  margin: 0 0 2rem 0;
+}
+
+.quote-loading {
+  margin: 0 0 2rem 0;
+  height: 7rem;
+  width: 100%;
+}
+
+.author-loading {
+  margin: 0;
+  display: inline-block;
+  height: 3rem;
+  width: 50%;
+}
+
+.skeleton {
+  animation: skeleton-loading 1s linear infinite alternate;
+}
+
+@keyframes skeleton-loading {
+  0% {
+    background-color: hsl(200, 20%, 80%);
+  }
+
+  100% {
+    background-color: hsl(200, 20%, 95%);
+  }
+}

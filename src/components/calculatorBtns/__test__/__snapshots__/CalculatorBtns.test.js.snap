@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`calculator btns tests should match the Dom snapshot 1`] = `
+<button
+  className="btn"
+  data-testid="button"
+  onClick={[Function]}
+  onKeyDown={[Function]}
+  type="button"
+>
+  <span>
+    +
+  </span>
+</button>
+`;
